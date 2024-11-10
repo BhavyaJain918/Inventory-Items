@@ -1,0 +1,45 @@
+label {
+    opacity: 0;
+    font-weight: 400;
+    font-size: large;
+    margin-left: 158%;
+    margin-bottom: 2%;
+    align-self: center;
+    display: table-caption;
+    font-family: 'Segoe UI';
+}
+
+h2 {
+    margin-top: 6%;
+    margin-left: 40%;
+    font-weight: 800;
+    font-size: x-large;
+    font-family: 'Segoe UI';
+}
+
+form {
+    display: table;
+    align-content: center;
+}
+
+input {
+    font-weight: 400;
+    font-size: medium;
+    margin-left: 148%;
+    margin-bottom: 6%;
+    color: transparent;
+    font-family: Tahoma;
+}
+
+button {
+    width: 100px;
+    font-weight: 200;
+    font-size: medium;
+    margin-left: 148%;
+    border-radius: 6px;
+    font-family: Tahoma;
+}
+
+button:hover {
+    cursor: pointer;
+}
